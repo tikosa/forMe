@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "world" << std::endl;
+    std::cout << "wood" << std::endl;
     return 0;
 }
